@@ -1,4 +1,4 @@
-# FAAMG_stock_market_analysis
+# FAAMG Stock Market Analysis
 
 Carrying out a financial analysis on the stocks of the most important technology companies at the moment.
 FAAMG = Facebook, Apple, Amazon, Microsoft and Google.
